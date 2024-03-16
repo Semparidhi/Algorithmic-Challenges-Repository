@@ -2,7 +2,7 @@
 You are given an array ‘A’ of ‘N’ integers numbered from ‘0’ to ‘N - 1’. You are also given an integer ‘K’. A subarray is considered to be a beautiful subarray if the length of the subarray is '1', else if absolute difference between any two elements in the subarray is even.
 
 
--
+
 Let’s say we have a subarray from ‘i’ to ‘j’, where ‘i’ <= ‘j’. For any two integers ‘p’, ‘q’ where ‘i’ <= ‘p’, ‘q’ <= ‘j’, ‘|A[p] - A[q]|’ should be even. You have to find the minimum sum of a beautiful subarray having length less than or equal to ‘K’.
 
 
