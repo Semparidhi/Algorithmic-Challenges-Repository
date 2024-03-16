@@ -56,7 +56,7 @@ Sample Input 2:
 Sample Output 2:
 -16
 1
-
+#-----------------------------------------------------------------------------------------------------------------------------------
 ##solution:
 long long minSumBeautifulSubarray (int n, int k, vector <int> &a) {
     // Write your code here.
